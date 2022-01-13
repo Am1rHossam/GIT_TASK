@@ -1,1 +1,3 @@
+
+Line 0  feature  0
 line 1 feature 1
